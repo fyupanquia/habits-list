@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="drink_water">Drink Water</string>
+    <string name="tv_description">A refreshing glass of water gets you hydrated</string>
+    <string name="begin_new_habit">Begin new habit....</string>
+    <string name="eat_an_apple">Eat an apple</string>
+    <string name="eat_an_apple_a_day_keeps_the_doctor_away">Eat an apple a day keeps the doctor away</string>
+    <string name="choose_an_image">Choose an image</string>
+    <string name="select_an_image">Select an image</string>
+    <string name="save_habit">Save habit</string>
+</resources>
